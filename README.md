@@ -1,0 +1,1 @@
+# Repositório para exercícios e códigos criados em Python
